@@ -1,2 +1,2 @@
 # london_bike_sharing
-Times-series Recurent Neural Network models
+Times series - Deep Learninig - Recurent Neural Network models
